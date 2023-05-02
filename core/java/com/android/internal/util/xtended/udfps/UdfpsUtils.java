@@ -1,5 +1,5 @@
 /*
-* Copyright (C) 2020 The Pixel Experience Project
+* Copyright (C) 2022 SuperiorOS
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -13,7 +13,7 @@
 * See the License for the specific language governing permissions and
 * limitations under the License.
 */
-package com.android.internal.util.xtended.udfps;
+package com.android.internal.util.superior.udfps;
 
 import android.content.Context;
 
